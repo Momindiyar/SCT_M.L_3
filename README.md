@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project implements a **Convolutional Neural Network (CNN)** to classify images of cats and dogs using the **Dogs vs Cats dataset** from Kaggle. The model is trained to distinguish between cats and dogs based on their images and predicts new images accordingly.
-
+.
 ## 🚀 Technologies Used
 - Python
 - TensorFlow & Keras
